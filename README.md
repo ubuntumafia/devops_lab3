@@ -1,3 +1,2 @@
 # Lab3
-Hello, World!
-Hello, Local World!
+Hello, Local and Remote World!
